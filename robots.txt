@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aydrinaho.github.io/sitemap.html.gz
+Sitemap: https://aydrinaho.github.io/app/sitemap.html.gz
+Sitemap: https://aydrinaho.github.io/assets/sitemap.html.gz
+Sitemap: https://aydrinaho.github.io/css/sitemap.html.gz
+Sitemap: https://aydrinaho.github.io/includes/sitemap.html.gz
+Sitemap: https://aydrinaho.github.io/item/sitemap.html.gz
+Sitemap: https://aydrinaho.github.io/src/sitemap.html.gz
